@@ -1,1 +1,20 @@
-{}
+{
+  "obsidian-git:push": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "obsidian-git:backup-and-close": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ]
+}
