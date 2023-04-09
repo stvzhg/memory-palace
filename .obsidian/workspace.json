@@ -11,12 +11,8 @@
             "id": "45c43e9d5d66f206",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life/Recipe/番茄炒蛋.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Recipe/番茄炒蛋.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/Recipe/番茄炒蛋.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Life/Recipe/番茄炒蛋.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,8 +139,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "45c43e9d5d66f206",
+  "active": "2485b725f022464f",
   "lastOpenFiles": [
+    "Public/番茄炒蛋.md",
     "Public/Welcome to the garden.md",
     "Public/新建 文本文档.txt",
     "Public",
