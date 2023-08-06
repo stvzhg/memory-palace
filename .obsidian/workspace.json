@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b7e0e3c5e73174f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life/housing/openhouse/买房注意事项之怎么去看Open House.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/Recipe/番茄炒蛋.md",
+                "file": "Life/housing/openhouse/买房注意事项之怎么去看Open House.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/Recipe/番茄炒蛋.md",
+                "file": "Life/housing/openhouse/买房注意事项之怎么去看Open House.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/Recipe/番茄炒蛋.md"
+                "file": "Life/housing/openhouse/买房注意事项之怎么去看Open House.md"
               }
             }
           }
@@ -147,11 +160,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2485b725f022464f",
+  "active": "b7e0e3c5e73174f8",
   "lastOpenFiles": [
+    "Life/Recipe/番茄炒蛋.md",
+    "Life/housing/openhouse/买房注意事项之怎么去看Open House.md",
+    "Life/housing/openhouse",
+    "Life/housing",
     "Tech/Software/Obsidian",
     "Tech/Software/Untitled 1.md",
-    "Life/Recipe/番茄炒蛋.md",
     "Tech/Software/Untitled.md",
     "Tech/Ops/Github CICD",
     "Tech/Frontend/Jekyll",
@@ -164,9 +180,6 @@
     "Public/新建 文本文档.txt",
     "Public",
     "新建文件夹",
-    "Markdown Rendered.md.url",
-    "Life/Photography",
-    "Life/Movie",
-    "Life/Music"
+    "Markdown Rendered.md.url"
   ]
 }
