@@ -1,11 +1,13 @@
 ---
 feed: show
-title: Usage
+title: stable-diffusion-webui
 date: 08-08-2023
 ---
 
-# Usage
+# stable-diffusion-webui
 
-# Setting
+## Usage
 
-# Common prompt
+## Setting
+
+## Common prompt
