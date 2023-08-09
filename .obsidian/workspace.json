@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tech/AI/Graphics/Stable Diffusion/VAE.md",
+                "file": "Tech/AI/Graphics/Stable Diffusion/Stable Diffusion.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tech/AI/Graphics/Stable Diffusion/VAE.md",
+                "file": "Tech/AI/Graphics/Stable Diffusion/Stable Diffusion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tech/AI/Graphics/Stable Diffusion/VAE.md",
+                "file": "Tech/AI/Graphics/Stable Diffusion/Stable Diffusion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tech/AI/Graphics/Stable Diffusion/VAE.md"
+                "file": "Tech/AI/Graphics/Stable Diffusion/Stable Diffusion.md"
               }
             }
           }
@@ -141,8 +141,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,9 +156,10 @@
   },
   "active": "2485b725f022464f",
   "lastOpenFiles": [
+    "Tech/AI/Graphics/Stable Diffusion/stable-diffusion-webui.md",
+    "Tech/AI/Graphics/Stable Diffusion/VAE.md",
     "Tech/AI/Graphics/Stable Diffusion/Stable Diffusion.md",
     "Tech/AI/Graphics/Stable Diffusion/LoRA.md",
-    "Tech/AI/Graphics/Stable Diffusion/VAE.md",
     "Life/housing/openhouse/Openhouse checklist.md",
     "().md",
     "Tech/AI/Graphics/Stable Diffusion",

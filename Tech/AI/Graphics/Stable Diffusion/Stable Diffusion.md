@@ -8,7 +8,7 @@ date: 08-08-2023
 
 **Stable Diffusion** is a [deep learning](https://en.wikipedia.org/wiki/Deep_learning "Deep learning"), [text-to-image model](https://en.wikipedia.org/wiki/Text-to-image_model "Text-to-image model") released in 2022 based on diffusion techniques. It is primarily used to generate detailed images conditioned on text descriptions, though it can also be applied to other tasks such as [inpainting](https://en.wikipedia.org/wiki/Inpainting "Inpainting"), outpainting, and generating image-to-image translations guided by a [text prompt](https://en.wikipedia.org/wiki/Prompt_engineering "Prompt engineering").[[3]](https://en.wikipedia.org/wiki/Stable_Diffusion#cite_note-:0-3) It was developed by researchers from the CompVis Group at [Ludwig Maximilian University of Munich](https://en.wikipedia.org/wiki/Ludwig_Maximilian_University_of_Munich "Ludwig Maximilian University of Munich") and Runway with a compute donation by Stability AI and training data from non-profit organizations.
 
-# Installation guide (with webui)
+# Installation guide (with [[stable-diffusion-webui]])
 
 ## Install dependencies
 
@@ -25,7 +25,7 @@ bash <(wget -qO- https://raw.githubusercontent.com/AUTOMATIC1111/stable-diffusio
 
 ### Reference
 
-https://github.com/AUTOMATIC1111/stable-diffusion-webui
+[https://github.com/AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 
 # Use [[LoRA]] model
 
@@ -50,7 +50,7 @@ https://github.com/AUTOMATIC1111/stable-diffusion-webui
 
 ### Reference
 
-https://github.com/kohya-ss/sd-webui-additional-networks
+[https://github.com/kohya-ss/sd-webui-additional-networks](https://github.com/kohya-ss/sd-webui-additional-networks)
 
 # Use pre-trained model
 
@@ -60,4 +60,4 @@ https://github.com/kohya-ss/sd-webui-additional-networks
 
 # Useful website
 
-* https://civitai.com/
+* [https://civitai.com/](https://civitai.com/)
