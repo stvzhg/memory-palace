@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/housing/openhouse/Openhouse checklist.md",
+                "file": "Tech/AI/Graphics/Stable Diffusion/VAE.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "be8be85c9cbeb430",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/housing/openhouse/Openhouse checklist.md",
+                "file": "Tech/AI/Graphics/Stable Diffusion/VAE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/housing/openhouse/Openhouse checklist.md",
+                "file": "Tech/AI/Graphics/Stable Diffusion/VAE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/housing/openhouse/Openhouse checklist.md"
+                "file": "Tech/AI/Graphics/Stable Diffusion/VAE.md"
               }
             }
           }
@@ -166,11 +155,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "be8be85c9cbeb430",
+  "active": "2485b725f022464f",
   "lastOpenFiles": [
+    "Tech/AI/Graphics/Stable Diffusion/Stable Diffusion.md",
+    "Tech/AI/Graphics/Stable Diffusion/LoRA.md",
+    "Tech/AI/Graphics/Stable Diffusion/VAE.md",
+    "Life/housing/openhouse/Openhouse checklist.md",
+    "().md",
+    "Tech/AI/Graphics/Stable Diffusion",
+    "Tech/AI/Graphics",
+    "Tech/AI",
     "Life/housing/openhouse/买房注意事项之怎么去看 Open House.md",
     "Life/Recipe/番茄炒蛋.md",
-    "Life/housing/openhouse/Openhouse checklist.md",
     "Life/housing/openhouse/买房流程一览表.md",
     "2023-08-05.md",
     "Tech/Ops/AWS",
@@ -182,13 +178,10 @@
     "Tech/Software/Untitled.md",
     "Tech/Ops/Github CICD",
     "Tech/Frontend/Jekyll",
-    "Tech/Frontend",
     "Life/Recipe/蛋炒番茄.md",
     "Life/Recipe/番茄炒蛋 - 副本.md",
     "Public/番茄炒蛋test.md",
     "Public/番茄炒蛋.md",
-    "Public/Welcome to the garden.md",
-    "Public/新建 文本文档.txt",
-    "Public"
+    "Public/Welcome to the garden.md"
   ]
 }
