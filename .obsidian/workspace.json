@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ca16a34f8651be05",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.5"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,7 +177,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "89f6af244fa3c920",
+  "active": "ca16a34f8651be05",
   "lastOpenFiles": [
     "Tech/AI/Graphics/Stable Diffusion/stable-diffusion-webui.md",
     "Tech/AI/Graphics/Stable Diffusion/VAE.md",
