@@ -40,9 +40,19 @@
                 "currentVersion": "1.4.5"
               }
             }
+          },
+          {
+            "id": "38984c4c646eed09",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -159,6 +169,16 @@
                 "file": "ToDO.md"
               }
             }
+          },
+          {
+            "id": "529944e2e065ae69",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -177,7 +197,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca16a34f8651be05",
+  "active": "38984c4c646eed09",
   "lastOpenFiles": [
     "Tech/AI/Graphics/Stable Diffusion/stable-diffusion-webui.md",
     "Tech/AI/Graphics/Stable Diffusion/VAE.md",
